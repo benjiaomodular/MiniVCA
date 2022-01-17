@@ -14,7 +14,9 @@ Initial design.
 - No silk screen label for pots.
 
 ## 1.1
-Minor corrections from initial print.
+- Minor corrections from initial print.
+- Updated front panel graphics to my new standard styles.
+
 
 ### Issues
 - Replaced footprint for LM13700 with correct one.
