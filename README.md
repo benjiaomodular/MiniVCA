@@ -6,17 +6,20 @@ An LM13700 VCA based on Juanito Moore's design. Check out his original circuit h
 
 # Versions
 
+## 1.2 (Unverified)
+- Changed mounting hole spacing to Doepfer standards.
+- Export separate gerber files for each board instead of mousebites.
+
+## 1.1
+- Minor corrections from initial print.
+- Updated front panel graphics to my new standard styles.
+
 ## 1.0
 Initial design.
 
 ### Issues
 - Socket for LM13700 was wrong. Used 10.16mm instead of 7.62mm width. Can be remedied by bending the IC's pins wide. Verified to work.
 - No silk screen label for pots.
-
-## 1.1
-- Minor corrections from initial print.
-- Updated front panel graphics to my new standard styles.
-
 
 ### Issues
 - Replaced footprint for LM13700 with correct one.
